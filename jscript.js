@@ -357,3 +357,5 @@ console.log(myLastName);
 //Sometimes your string will contains the '' symbol and you don't want it to be interpreted as code
 
 //Example 
+
+var myString = "I am a "double quoted" string inside "double quotes";
